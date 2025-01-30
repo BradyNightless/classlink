@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: classlink
+    env: docker
+    plan: free
